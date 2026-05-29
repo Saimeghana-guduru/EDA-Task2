@@ -32,7 +32,7 @@ Explored relationships between multiple variables using advanced visualizations:
 - Heatmap of correlations among numerical features  
 
 ### 4️⃣ Static Dashboard Mock‑Up
-Created a static dashboard (PowerPoint / Google Slides / Excel) summarizing key KPIs:
+Created a static dashboard (Excel) summarizing key KPIs:
 - Total Bookings  
 - Total Cancellations  
 - Average ADR  
@@ -50,14 +50,13 @@ Created a static dashboard (PowerPoint / Google Slides / Excel) summarizing key 
 ---
 
 ## 📂 Repository Structure
-Task2_EDA/
-│
-├── EDA(descriptive,univariate and multivariate analysis).ipynb   # Jupyter Notebook with Python EDA
-├── sql_queries.sql                                               # SQL queries for business questions
-├── dashboard.xlsx                                                # Static dashboard (Excel)
-├── dashboard.png                                                 # Static dashboard image
-└── sample_cleaned_hotel_bookings                                 # Sample cleaned dataset from Task 1
+- EDA(descriptive,univariate and multivariate analysis).ipynb   # Jupyter Notebook with Python EDA
+- sql_queries.sql                                               # SQL queries for business questions
+- dashboard.xlsx                                                # Static dashboard (Excel)
+- dashboard.png                                                 # Static dashboard image
+- sample_cleaned_hotel_bookings                                 # Sample cleaned dataset from Task 1
 
+---
 
 ## 🧠 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
